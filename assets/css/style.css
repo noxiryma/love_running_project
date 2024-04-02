@@ -380,7 +380,7 @@ main {
 }
 
 /* X-Large devices (1200px and up)*/
-@media screen and (min-width: 1200px;) {
+@media screen and (min-width: 1200px) {
 
     /* Reasons section */
     
@@ -394,7 +394,7 @@ main {
     }
 
     #benefits-image {
-        order: 0;
+        order: 0
     }
 
     #benefits-mental {
