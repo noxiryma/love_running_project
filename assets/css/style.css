@@ -185,6 +185,24 @@ main {
     line-height: 0;
 }
 
+/* Sign Up Page */
+
+#signup {
+    background-size: cover;
+    background-position: 75%;
+    flex-grow: 1;
+}
+
+h2 { 
+    color: #fafafa;
+}
+
+#signup-form {
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.6);
+}
+
+
 /* Footer */
 
 #social-networks {
